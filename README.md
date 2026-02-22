@@ -24,7 +24,7 @@ I'm **Joseph**, a *third-year Software Engineering student* at the University of
 
 Driven by my passion for technology and a relentless pursuit of knowledge, I bring a results-focused mindset to tackling complex software engineering challenges. I look forward to connecting with professionals who value learning and problem-solving like I do.
 
-Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/joseph-kimambo/) or send me an email at [josephzkimambo@gmail.com](mailto:josephzkimambo@gmail.com). Let's explore possibilities and contribute to innovative projects together!
+Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/joseph-kimambo/) or send me an email at [joseph.kimambo@ucalgary.ca](mailto:joseph.kimambo@ucalgary.ca). Let's explore possibilities and contribute to innovative projects together!
 
 
 
