@@ -1,8 +1,8 @@
-## Wassup 👋
+## Wassup
 
 
 
-I'm **Joseph**, a *third-year Software Engineering student* at the University of Calgary. I like coding.
+I'm **Joseph**, a *fourth-year Software Engineering student* at the University of Calgary. I like coding.
 
 ## <span style="color:green">Skills</span>
 
